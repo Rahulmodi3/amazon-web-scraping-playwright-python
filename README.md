@@ -1,5 +1,5 @@
 # Amazon Bestsellers Scraping Project
-This project involves web scraping the Amazon Bestsellers page for the Electronics category, extracting essential product information, and storing it in an Excel file. The primary goal is to automate the collection of data for the top 50 bestselling items, including their names, prices, ratings, and the number of reviews.
+This project involves web scraping the Amazon Bestsellers page for the any product category, extracting essential product information, and storing it in an Excel file. The primary goal is to automate the collection of data for the top 50 bestselling items, including their names, prices, ratings, and the number of reviews.
 
 
 ## Installation
